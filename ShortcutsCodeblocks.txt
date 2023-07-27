@@ -1,0 +1,29 @@
+Shortcut´s Codeblocks:
+
+Control + 
+	   a = Selección total.
+	   s = Guardar cambios.
+	   d = Pega en la siguiente línea una copia de la línea posicionada.
+	   z = Deshacer cambio.
+	   c = Copiar.
+	   v = Pegar.
+	   b = Marca debug.
+	   g = Buscar línea.
+	   f = Buscar palabra.
+	   r = Reemplazar palabra.
+	   t = Intercambiar posición con línea superior.
+	   j = Plantilla de esrtucturas programación.
+	   o = Abrir documento.
+	   p = Imprimir.
+	   flecha izq/der = Avanzar una palabra.
+	   flecha 'Inicio' = Avanzar al inicio.
+	   flecha 'Fin' = Avanzar al fin.
+	   TAB = Lista de archivos en el proyecto.
+
+F2 = Ocultar/visibilizar 'Logs and others'.
+shift + F2 = Ocultar/visibilizar 'Management'.
+F5 = Marca para debug.
+F8 = Forzar compilación.
+F9 = Compilar.
+F11 = Intercambio de pantalla entre archivos .cpp y .h .
+F12 = Ocultar/revelar bloque de cóndigo.
